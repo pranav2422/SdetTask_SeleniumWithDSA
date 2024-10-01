@@ -14,3 +14,4 @@
 ### output sample
 - 12000 lg soundbar 200 watt 
 - 14000 Lg sounbar 300 Watt 5.1
+
