@@ -35,7 +35,9 @@ public static WebDriver driver;
 	public void afterrclass() {
 		driver.quit();
 
+
 		// added as part of newbranchchanges
+
 
 	}
 	
