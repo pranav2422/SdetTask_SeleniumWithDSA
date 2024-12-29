@@ -34,6 +34,7 @@ public static WebDriver driver;
 	@AfterTest
 	public void afterrclass() {
 		driver.quit();
+		//aded as part of master
 	}
 	
 	@Test
