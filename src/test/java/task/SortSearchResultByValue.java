@@ -34,7 +34,8 @@ public static WebDriver driver;
 	@AfterTest
 	public void afterrclass() {
 		driver.quit();
- // added as part of newbranchchanges		
+
+		// added as part of newbranchchange
 	}
 	
 	@Test
@@ -92,6 +93,12 @@ public static WebDriver driver;
 			System.out.println();
 		}
 		
+	}
+
+
+	
+	public void newfun(){
+		System.out.println("hiii");
 	}
 
 }
