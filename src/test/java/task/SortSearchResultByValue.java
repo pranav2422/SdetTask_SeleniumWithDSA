@@ -96,4 +96,8 @@ public static WebDriver driver;
 	}
 
 // hows the josh
+	
+	public void newfun(){
+		System.out.println("hiii");
+	}
 }
